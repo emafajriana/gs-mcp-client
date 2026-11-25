@@ -1,0 +1,9 @@
+{
+  "client_id": "https://raw.githubusercontent.com/emafajriana/gs-mcp-client/main/client-raw.json",
+  "client_name": "Whale MCP Probe",
+  "redirect_uris": ["https://webhook.site/6467b39c-aa6a-40b7-93f9-0f26ab1ab886"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp offline_access openid"
+}
